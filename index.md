@@ -20,6 +20,6 @@ I have used Machine learning and NLP techniques in this projects . I have used 4
 
 Bake A Wish 
 
- This uses Asp.net techniques for getting all the bakery shops onto asingle portal
+ This uses Asp.net techniques for getting all the bakery shops onto a single portal. This is a dummy project , in whhich I have used some Basic SQL Queries
  
 <center><img src="assets/img/bakery logo.jpg"/></center>

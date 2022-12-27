@@ -21,4 +21,4 @@ Bake A Wish
 
  This uses Asp.net techniques for getting all the bakery shops onto asingle portal
  
-<center><img src="assets/img/spam_img.jpeg"/></center>
+<center><img src="assets/img/bakery logo.jpg"/></center>

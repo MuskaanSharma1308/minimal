@@ -1,4 +1,10 @@
 
+# Data Science Portfolio
+---
+## Machine learning
+
+### Artificial Intelligence
+
 # Project 1
 
 Detection of spam and non spam mails

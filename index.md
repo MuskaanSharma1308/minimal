@@ -10,6 +10,8 @@
 Detection of spam and non spam mails
 
 I have used Machine learning and NLP techniques in this projects . I have used 4 Algorithms in this that are Logistic Rregression, Decision Tree, Random Forest Classifer, Niave Bayes. Out of which  Random Forest  Classifier was giving the best result 
+This is becuase it has Decision Tree
+
 <center><img src="assets/img/spam_img.jpeg"/></center>
 
  

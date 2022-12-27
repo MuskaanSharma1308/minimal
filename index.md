@@ -20,3 +20,5 @@ I have used Machine learning and NLP techniques in this projects . I have used 4
 Bake A Wish 
 
  This uses Asp.net techniques for getting all the bakery shops onto asingle portal
+ 
+<center><img src="assets/img/spam_img.jpeg"/></center>

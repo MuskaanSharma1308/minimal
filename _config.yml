@@ -1,6 +1,16 @@
 title: Muskaan Sharma
-logo: C:\Users\DELL\Downloads\IMG-20210318-WA0004 (3).jpg
-description: Practical, Ambitious,Open for Challenges and learn new things 
+logo: /assets/img/passportSizePhotoNew.jpg
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/v-s-s-anirudh-sharma-ab405617b/">LinkedIn</a> |
+  <a href="https://github.com/MuskaanSharma1308">GitHub</a>
+  
+  <br>   
+ Worked as Solution Consultant at Lyra Infosystems
+ 
+  <br>
+  </p>
 
 
 theme: jekyll-theme-minimal
